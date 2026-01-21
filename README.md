@@ -16,5 +16,3 @@ source .venv/bin/activate
 # .\.venv\Scripts\Activate.ps1
 
 pip install -e ".[dev]"
-cp .env.example .env
-# Put your OPENAI_API_KEY in .env (DO NOT COMMIT)
